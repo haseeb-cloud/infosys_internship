@@ -1,0 +1,8 @@
+train: C:/infosys intern/detection model/detection_dataset/dataset/dataset/dataset/images/train
+val: C:/infosys intern/detection model/detection_dataset/dataset/dataset/dataset/images/val
+
+
+names: 
+    0: name
+    1: uid
+    2: address
