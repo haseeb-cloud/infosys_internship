@@ -64,7 +64,7 @@ For detailed API endpoints and usage, refer to the [API Documentation](docs/API.
 This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
-For queries, contact: [your-email@example.com](mohdhaseebhanif@gmail.com)
+For queries, contact:(mohdhaseebhanif@gmail.com)
 
 ---
 Developed as part of the Infosys Internship Program 🚀
